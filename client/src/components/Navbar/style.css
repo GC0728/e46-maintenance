@@ -1,0 +1,25 @@
+#nav-flex-container {
+    background-color: hsl(0, 0%, 24%);
+    border: 5px solid black;
+    color: rgb(28, 107, 226);
+    display: block;
+    height: 100%;
+    font-weight: bold;
+    flex-direction: column;
+    margin-left: -8px;
+    margin-top: -8px;
+    opacity: 0.75;
+    position: fixed;
+    width: 8%;
+
+}
+
+div ul {
+    list-style-type: none;
+    margin-left: -20px;
+
+}
+
+div ul li {
+    margin-bottom: 5px;
+}
